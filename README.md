@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/MilanesaTM/PAC3-Sounds/master/barney_seeya_whe
 https://raw.githubusercontent.com/MilanesaTM/PAC3-Sounds/master/barney_u_take_care_of_yoself.ogg
 https://raw.githubusercontent.com/MilanesaTM/PAC3-Sounds/master/barney_ur_kidding_me.ogg
 https://raw.githubusercontent.com/MilanesaTM/PAC3-Sounds/master/barney_woo_hoo.ogg
+https://raw.githubusercontent.com/MilanesaTM/PAC3-Sounds/master/every%20lady's%20crazy.ogg
 https://raw.githubusercontent.com/MilanesaTM/PAC3-Sounds/master/have%20a%20heart%20with%20got%20a%20helpless%20old%20man%20with%20us.ogg
 https://raw.githubusercontent.com/MilanesaTM/PAC3-Sounds/master/medic%20woohohoho.ogg
 https://raw.githubusercontent.com/MilanesaTM/PAC3-Sounds/master/medic_laugh_long.ogg
